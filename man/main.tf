@@ -3,3 +3,5 @@ name= "man-rg"
 location ="westus"
 
 }
+
+update 1
